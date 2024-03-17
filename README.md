@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ragul Sridhar</h1>
-<h3 align="center">STUDENT : INFORMATION TECHNOLOGY</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16191500-Coder/attachments/8050475?mode=media">
-https://komarev.com/ghpvc/?username=rag
-<p align="left"> <img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" alt="ragulsridhar333" /> </p>
+<h3 align="center">STUDENT - INFORMATION TECHNOLOGY</h3>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
 - 🌱 I’m currently learning **Database - Sql**
 

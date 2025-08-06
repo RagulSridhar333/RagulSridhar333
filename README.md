@@ -2,11 +2,7 @@
 <h3 align="center">🚀 Aspiring Java Full Stack Developer</h3>
 
 
-<p align="center">
-  <a href="https://github.com/RagulSridhar" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=RagulSridhar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+
 
 
 

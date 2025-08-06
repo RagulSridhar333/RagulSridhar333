@@ -4,14 +4,10 @@
 
 - 🌱 I’m currently learning **Spring Security **
 
-- 💬 Ask me about **Html, Css , Javascript , Tailwind , React , java , Spring Boot , Sql**
+- 💬 Ask me about **  Html, Css , Javascript , Tailwind , React , java , Spring Boot , Sql   **
 
 - 📫 How to reach me **ragulsridhar333@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/ragulsridhar333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragulsridhar333" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">I code in :</h3>
 <p align="left"> 
@@ -34,9 +30,18 @@
   <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
  </p>
 
- <h3 align="left">Workspace Spec :</h3>
- <p align="left"> 
-at-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
- </p>
+<h3 align="left">🛠️ Workspace Spec :</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Laptop-Lenovo_IdeaPad_Gaming-0b0b0b?style=flat-square&logo=lenovo&logoColor=white" alt="Lenovo IdeaPad Gaming" />
+  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows 11" />
+  <img src="https://img.shields.io/badge/Processor-Intel_Core_i5-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel i5" />
+  <img src="https://img.shields.io/badge/GPU-NVIDIA_GTX_1650-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="GTX 1650" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Terminal-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Browser-Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Google Chrome" />
+  <img src="https://img.shields.io/badge/Version_Control-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Cloud-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ragulsridhar333?theme=dark&font=Hahmlet)

@@ -1,12 +1,35 @@
 <h1 align="center">Hi 👋, I'm Ragul S</h1>
-<h3 align="center">Java Full Stack Developer</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
+<h3 align="center">🚀 Aspiring Java Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Spring Security **
 
-- 💬 Ask me about **  Html, Css , Javascript , Tailwind , React , java , Spring Boot , Sql   **
+<p align="center">
+  <a href="https://github.com/RagulSridhar" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=RagulSridhar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-- 📫 How to reach me **ragulsridhar333@gmail.com**
+
+
+
+<table border="0">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🌱 I’m currently diving deep into <strong>Spring Security</strong> to secure backend APIs</li>
+        <li>💬 Ask me about: <strong>HTML, CSS, JavaScript, Tailwind, React, Java, Spring Boot, SQL</strong></li>
+        <li>🎯 Passionate about building modern full-stack web apps</li>
+        <li>🧠 Always curious and learning new tech</li>
+        <li>📫 How to reach me: <strong>ragulsridhar333@gmail.com</strong></li>
+        <li>🔗 Connect on <a href="https://www.linkedin.com/in/ragul-s-a58968282/" target="_blank">LinkedIn</a></li>
+        <li>⚡ Fun fact: I love building UIs that feel alive ⚡</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" width="300" alt="Coding Gif" />
+    </td>
+  </tr>
+</table>
+
 
 
 <h3 align="left">I code in :</h3>

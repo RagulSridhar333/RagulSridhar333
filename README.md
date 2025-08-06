@@ -27,9 +27,16 @@
 </p>
 
 <h3 align="left">IDE ans Tools I use :</h3>
+<p align="left"> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 <img width="50" height="50" src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
+ </p>
+
+ <h3 align="left">Workspace Spec :</h3>
+ <p align="left"> 
+at-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
  </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ragulsridhar333?theme=dark&font=Hahmlet)
